@@ -59,7 +59,6 @@ https://github.com/kremflote/PGR208-Android-Programmering-Exam-2025
 
 - Kotlin
 - Android Studio
-- SQLite
 
 ### Om prosjektet
 

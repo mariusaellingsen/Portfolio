@@ -30,7 +30,7 @@ https://github.com/kremflote/DS3103-Webutvikling-Exam-2025
 ### Teknologier
 
 - HTML
-- CSS
+- TailwindCSS
 - TypeScript
 - C#
 - .NET
@@ -97,7 +97,7 @@ Eksamensprosjekt med fokus på implementering og analyse av algoritmer og datast
 
 ---
 
-# 🥩 MeatStore
+# Obligatory assignment in Web Development 
 
 **Repository**  
 https://github.com/kremflote/ArbeidskravMeatStore
@@ -106,7 +106,7 @@ https://github.com/kremflote/ArbeidskravMeatStore
 
 - JavaScript
 - HTML
-- CSS
+- TailwindCSS
 
 ### Om prosjektet
 

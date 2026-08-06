@@ -31,7 +31,10 @@ https://github.com/kremflote/DS3103-Webutvikling-Exam-2025
 
 - HTML
 - CSS
-- JavaScript
+- TypeScript
+- C#
+- .NET
+- SQLite
 - Webutvikling
 
 ### Om prosjektet

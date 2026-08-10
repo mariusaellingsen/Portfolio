@@ -44,8 +44,8 @@ Eksamensprosjekt med fokus på moderne webutvikling. Prosjektet omfatter utvikli
 ### Mitt bidrag
 
 - Utvikling av frontend
-- Implementering av funksjonalitet
 - Strukturering av prosjektet
+- Oppsett av database og API
 - Testing og feilretting
 
 ---

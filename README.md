@@ -45,6 +45,8 @@ Eksamensprosjekt med fokus på moderne webutvikling. Prosjektet omfatter utvikli
 
 - Utvikling av frontend
 - Strukturering av prosjektet
+- Utvikling av designprototyper i Figma
+- Implementering av funksjonalitet
 - Oppsett av database og API
 - Testing og feilretting
 
@@ -67,6 +69,7 @@ Eksamensprosjekt hvor vi utviklet en Android-applikasjon med fokus på moderne a
 ### Mitt bidrag
 
 - Implementering av funksjonalitet
+- Utvikling av designprototyper i Figma
 - UI-utvikling
 - Datalagring
 - Testing

@@ -58,7 +58,6 @@ Eksamensprosjekt med fokus på moderne webutvikling. Prosjektet omfatter utvikli
 <p align="left">
   <img src="https://img.shields.io/badge/Karakter-A-green?style=for-the-badge" />
 </p>
-
 **Repository**
 https://github.com/kremflote/PGR208-Android-Programmering-Exam-2025
 

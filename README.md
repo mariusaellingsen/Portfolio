@@ -55,6 +55,9 @@ Eksamensprosjekt med fokus på moderne webutvikling. Prosjektet omfatter utvikli
 ---
 
 ## 📱 Android Programming Exam
+<p align="left">
+  <img src="https://img.shields.io/badge/Karakter-A-green?style=for-the-badge" />
+</p>
 
 **Repository**
 https://github.com/kremflote/PGR208-Android-Programmering-Exam-2025
@@ -79,6 +82,9 @@ Eksamensprosjekt hvor vi utviklet en Android-applikasjon med fokus på moderne a
 ---
 
 # 🧮 Data Structures & Algorithms Exam
+<p align="left">
+  <img src="https://img.shields.io/badge/Karakter-A-green?style=for-the-badge" />
+</p>
 
 **Repository**  
 https://github.com/kremflote/PG4200-Data-Structures-and-Algorithms-Exam-2026
@@ -130,6 +136,9 @@ Arbeidskrav hvor vi utviklet en nettbasert løsning med fokus på praktisk webut
 
 **Repository**  
 https://github.com/kremflote/PGR107-Python-Exam-2026
+<p align="left">
+  <img src="https://img.shields.io/badge/Karakter-A-green?style=for-the-badge" />
+</p>
 
 ### Teknologier
 

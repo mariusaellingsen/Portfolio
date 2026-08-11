@@ -23,7 +23,9 @@ Gjennom disse prosjektene har jeg jobbet med blant annet:
 # Utvalgte prosjekter
 
 ## 🌐 Web Development Exam
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Karakter-A-green?style=for-the-badge" />
+</p>
 **Repository**  
 https://github.com/kremflote/DS3103-Webutvikling-Exam-2025
 

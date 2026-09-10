@@ -20,6 +20,8 @@ Gjennom disse prosjektene har jeg jobbet med blant annet:
 
 ---
 
+Under har jeg lagt ved et utvalg av programmeringsrelaterte eksamensprosjekter. Jeg har også en nettside jeg utvikler i React / TS for min egen foto-portefølje: https://ellingsenphoto.no/
+
 # Utvalgte prosjekter
 
 ## 🌐 Web Development Exam

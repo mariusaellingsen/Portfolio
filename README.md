@@ -2,7 +2,7 @@
 
 Velkommen til min utviklerportefølje!
 
-Jeg studerer bachelor i Informasjonsteknologi – Frontend- og mobilutvikling ved Høyskolen Kristiania, og denne porteføljen inneholder et utvalg av prosjekter fra studiet.
+Jeg studerer bachelor i Informasjonsteknologi – Frontend- og mobilutvikling ved Høyskolen Kristiania, og denne porteføljen inneholder et utvalg av egne prosjekter og prosjekter fra studiet.
 
 Gjennom disse prosjektene har jeg jobbet med blant annet:
 
@@ -14,6 +14,9 @@ Gjennom disse prosjektene har jeg jobbet med blant annet:
 - TypeScript
 - HTML/CSS
 - React
+- FastAPI
+- Docker og Linux
+- LLM-integrasjon
 - Android Studio
 - SQLite
 - Algoritmer og datastrukturer
@@ -23,6 +26,42 @@ Gjennom disse prosjektene har jeg jobbet med blant annet:
 Under har jeg lagt ved et utvalg av programmeringsrelaterte eksamensprosjekter. Jeg har også en nettside jeg utvikler i React / TS for min egen foto-portefølje: https://ellingsenphoto.no/
 
 # Utvalgte prosjekter
+
+## 💼 Jobbportal med AI (eget prosjekt, 2026)
+<p align="left">
+  <img src="https://img.shields.io/badge/Eget_prosjekt-I_daglig_bruk-blue?style=for-the-badge" />
+</p>
+
+**Repository**
+Privat foreløpig. Kan vises på forespørsel.
+
+### Teknologier
+
+- Python, FastAPI, Pydantic
+- SQLAlchemy, Alembic, SQLite
+- React, TypeScript, Tailwind CSS
+- Docker, Linux (Ubuntu), Caddy, Tailscale
+- LLM-integrasjon (OpenRouter, DeepSeek)
+- pytest
+
+### Om prosjektet
+
+En webapplikasjon jeg har utviklet for min egen jobbsøking. Den henter relevante stillinger fra FINN, vurderer hvor godt jeg passer hver stilling med en språkmodell, og skriver utkast til søknader ut fra en kontekstmappe med CV, portefølje, attester og søknader jeg har skrevet selv. Den kjører på en egen Linux-server og brukes daglig fra mobilen.
+
+### Mitt bidrag
+
+- Prosjektidé, kravspesifikasjon og design
+- Arkitektur: lagdelt backend i FastAPI med API-kontrakter i Pydantic
+- Databasedesign og migrasjoner (SQLite, Alembic)
+- Drift i Docker på egen Linux-server, med privat tilgang og daglige, krypterte sikkerhetskopier
+- LLM-integrasjon med versjonerte prompter og validerte svar
+- Testing av hver endring før den gikk inn i Git
+
+### Utviklet med AI-assistanse
+
+Prosjektet er utviklet med Claude Code som AI-kodeassistent. Jeg tok arkitektur- og produktvalgene og testet hver endring, mens Claude Code bidro med implementering og som sparringspartner. Det har gått i små steg, med egne vurderinger i hver sving, og har lært meg mye om databasedesign, API-design og bevisste avveininger.
+
+---
 
 ## 🌐 Web Development Exam
 <p align="left">
